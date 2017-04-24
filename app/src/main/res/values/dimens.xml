@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 360dp -->
+    <!-- Text size define. -->
+    <dimen name="textsize_huge">28sp</dimen>
+    <dimen name="textsize_large">20sp</dimen>
+    <dimen name="textsize_medium">18sp</dimen>
+    <dimen name="textsize_normal">16sp</dimen>
+    <dimen name="textsize_small">12sp</dimen>
+    <dimen name="textsize_supersmall">10sp</dimen>
+    <!-- Padding and spacing define. -->
+    <dimen name="spacing_supersmall">2dp</dimen>
+    <dimen name="spacing_small">5dp</dimen>
+    <dimen name="spacing_normal">10dp</dimen>
+    <dimen name="spacing_medium">15dp</dimen>
+    <dimen name="spacing_large">20dp</dimen>
+    <dimen name="spacing_huge">40dp</dimen>
+
+    <dimen name="line_height">1dp</dimen>
+    <!-- Header define. -->
+    <dimen name="header_height">80dp</dimen>
+    <dimen name="height_item_category">60dp</dimen>
+    <dimen name="height_title">45dp</dimen>
+
+    <dimen name="height_group_btn_play">45dp</dimen>
+
+    <dimen name="padding_search">30dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>
